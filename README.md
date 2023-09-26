@@ -1,19 +1,21 @@
-# Olá! Aqui é o Vinícius Goulart Alves, prazer!
+# Hi there 👋, I'm Vinícius Goulart Alves!
 
-### Estes são meus status:
-[![](https://raw.githubusercontent.com/vinigoulartalves/vinigoulartalves/master/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/vinigoulartalves/vinigoulartalves/master/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vinigoulartalves/vinigoulartalves/master/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/vinigoulartalves/vinigoulartalves/master/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vinigoulartalves/vinigoulartalves/master/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-#
+### ⚙️ GitHub Analytics
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=vinigoulartalves&show_icons=true&show_icons=true&theme=transparent" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinigoulartalves&layout=compact&theme=transparent&card_width=320" />
+</a>
 
-### Estas são as linguagens que no momento estou aprendendo e desenvolvendo:
+### Tools and technologies:
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">        
 </div>
 
 #
 
-### Contato:
+### Contacts (PT-BR & ENG):
 <div> 
   <a href ="mailto:vini.goulartalves@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
   <a href ="https://wa.me/5548996930430"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>  
@@ -21,5 +23,4 @@
 
 #
 
-### Jogador ávido de Path of Exile 😅
 ### May the force be with you! 🌌
